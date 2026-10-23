@@ -37,9 +37,7 @@ A dense-only baseline would use fixed chunks, BGE-M3 retrieval, and five direct 
 
 Human review would verify reference evidence and answers. Planned ablations would remove BM25 fusion, reranking, parent recovery, or child overlap separately. No performance improvement, latency reduction, or business impact is claimed here.
 
-## References and provenance
+## References
 
 - [BGE-M3 model card](https://huggingface.co/BAAI/bge-m3)
 - [bge-reranker-v2-m3 model card](https://huggingface.co/BAAI/bge-reranker-v2-m3)
-
-This design and its documentation were prepared with AI assistance. The public documentation scenario does not establish employment, deployment, or completed personal implementation.
